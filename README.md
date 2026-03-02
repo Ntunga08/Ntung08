@@ -1,69 +1,159 @@
-# 👋 Hi, I'm Samwel Ntunga
+<div align="center">
 
-💻 Software Developer | Backend Enthusiast | Node.js & Linux Learner  
-🚀 Passionate about building scalable applications and learning new technologies.
+```
+███████╗ █████╗ ███╗   ███╗██╗    ██╗███████╗██╗
+██╔════╝██╔══██╗████╗ ████║██║    ██║██╔════╝██║
+███████╗███████║██╔████╔██║██║ █╗ ██║█████╗  ██║
+╚════██║██╔══██║██║╚██╔╝██║██║███╗██║██╔══╝  ██║
+███████║██║  ██║██║ ╚═╝ ██║╚███╔███╔╝███████╗███████╗
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝
+```
 
----
+### `< building the backend of tomorrow, one commit at a time />`
 
-## 🧑‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%2B+Express+Enthusiast+%E2%9A%A1;MySQL+Database+Architect+%F0%9F%97%84%EF%B8%8F;Linux+%26+System+Programming+Learner+%F0%9F%90%A7;Always+Learning.+Always+Building.+%E2%AD%90)](https://git.io/typing-svg)
 
-- 🔭 Currently working on: Home Expenses Automation System
-- 🌱 Learning: Node.js, Express, MySQL, System Programming
-- ⚡ Interested in: Backend Development, APIs, Automation
-- 🎯 Goal: Become a professional backend engineer
+<img src="https://komarev.com/ghpvc/?username=Ntunga08&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- JavaScript
-- C
-- SQL
-- Bash
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Database
-- MySQL
-
-### Tools & OS
-- Git & GitHub
-- Linux (Ubuntu)
-- VS Code
+</div>
 
 ---
 
-## 📊 Activity Overview
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 🧬 `whoami`
+
+```bash
+$ cat about_samwel.json
+```
+
+```json
+{
+  "name": "Samwel Ntunga Buluba",
+  "role": "Software Developer",
+  "location": "Dar es Salaam, TZ 🇹🇿",
+  "focus": "Backend Engineering",
+  "current_project": "🏠 Home Expenses Automation",
+  "stack": ["Node.js", "Express", "MySQL", "Linux"],
+  "mission": "Build scalable systems that matter",
+  "status": "⚡ Actively coding..."
+}
+```
+
+- 🔭 **Building:** Home Expenses Automation System (Node.js + MySQL)
+- 🌱 **Learning:** Node.js · Express · MySQL · System Programming
+- 🎯 **Goal:** Become a professional Backend Engineer
+- ⚡ **Fun fact:** I debug best at midnight 🌙
+
+---
+
+## 🛠️ `tech --stack`
+
+<div align="center">
+
+### ⚡ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🚀 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 `ls ./projects`
+
+<div align="center">
+
+| Project | Stack | Status |
+|--------|-------|--------|
+| 💰 **Home Expenses Automation** | Node.js · MySQL · Express | 🔧 In Progress |
+| 🔐 **Linux System Programming** | C · Bash · Ubuntu | 📚 Learning |
+| 🌐 **REST API Development** | Node.js · Express · Postman | 🚀 Building |
+
+</div>
+
+---
+
+## 📊 `git log --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ntunga08&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntunga08&layout=compact&theme=github_dark&border_color=00d9ff&title_color=00d9ff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ntunga08&theme=github-dark-blue&border=00d9ff&ring=00d9ff&fire=FF6C37&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntunga08&theme=github_dark)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ntunga08&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntunga08&layout=compact&theme=github_dark)
+</div>
 
 ---
 
-## 🚀 Projects
+## 🌱 `cat learning_roadmap.txt`
 
-- 💰 Home Expenses Automation (Node.js + MySQL)
-- 🔐 Linux System Programming Practice
-- 🌐 REST API Development
+```
+[████████████░░░░░░░░] Node.js & Express     60%
+[█████████░░░░░░░░░░░] MySQL & Databases      45%
+[███████░░░░░░░░░░░░░] System Programming     35%
+[████████████████░░░░] Git & Version Control  80%
+[██████████████░░░░░░] REST API Design        70%
+[█████░░░░░░░░░░░░░░░] Linux Internals        25%
+```
+
+> 🔥 *"The best time to start was yesterday. The second best time is now."*
 
 ---
 
-## 📫 Connect With Me
+## 📫 `curl --connect samwel`
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: your@email.com
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwel-ntunga-buluba-7725a5320/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samwelbuluba22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ntunga08)
+
+</div>
 
 ---
 
-⭐ *Always learning. Always building.*
+<div align="center">
+
+```bash
+while true; do
+  learn()
+  build()
+  improve()
+  repeat()
+done
+```
+
+### ⭐ *Always Learning. Always Building. Never Stopping.* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer"/>
+
+</div>
