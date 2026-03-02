@@ -11,7 +11,7 @@
 
 ### `< building the backend of tomorrow, one commit at a time />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%2B+Express+Enthusiast+%E2%9A%A1;MySQL+Database+Architect+%F0%9F%97%84%EF%B8%8F;Linux+%26+System+Programming+Learner+%F0%9F%90%A7;Always+Learning.+Always+Building.+%E2%AD%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+%2B+Frontend+Developer+%F0%9F%9A%80;Node.js+%7C+Express+%7C+FastAPI+%7C+Django+%E2%9A%A1;React+%7C+TypeScript+%7C+HTML+%F0%9F%8E%A8;MySQL+%7C+SQLite+%7C+MongoDB+%F0%9F%97%84%EF%B8%8F;Linux+%26+System+Programming+%F0%9F%90%A7;Always+Learning.+Always+Building.+%E2%AD%90)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Ntunga08&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 
@@ -34,7 +34,9 @@ $ cat about_samwel.json
   "location": "Dar es Salaam, TZ 🇹🇿",
   "focus": "Backend Engineering",
   "current_project": "🏠 Home Expenses Automation",
-  "stack": ["Node.js", "Express", "MySQL", "Linux"],
+  "backend": ["Node.js", "Express", "FastAPI", "Django"],
+  "frontend": ["React", "TypeScript", "HTML"],
+  "databases": ["MySQL", "SQLite", "MongoDB"],
   "mission": "Build scalable systems that matter",
   "status": "⚡ Actively coding..."
 }
@@ -51,19 +53,25 @@ $ cat about_samwel.json
 
 <div align="center">
 
-### ⚡ Languages
+### ⚡ Languages & Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🚀 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
