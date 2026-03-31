@@ -59,8 +59,30 @@
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ntunga08&show_icons=true&bg_color=0D1117&title_color=A970FF&text_color=7FFFD4&icon_color=A970FF&border_color=2B2F3A" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntunga08&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=7FFFD4&border_color=2B2F3A" alt="top languages" />
+  <h2>Stats of Obsession</h2>
+
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntunga08&theme=tokyonight" alt="profile details" />
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ntunga08&theme=tokyonight" alt="top languages by repo" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ntunga08&theme=tokyonight" alt="top languages by commit" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ntunga08&theme=tokyonight" alt="stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ntunga08&theme=tokyonight&utcOffset=3" alt="productive time" />
+      </td>
+    </tr>
+  </table>
+
+  <img width="92%" src="https://streak-stats.demolab.com?user=Ntunga08&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=7FFFD4&currStreakNum=7FFFD4&dates=7FFFD4&sideNums=7FFFD4&border=2B2F3A" alt="streak stats" />
 </div>
 
 ---
