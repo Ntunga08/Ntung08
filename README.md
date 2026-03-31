@@ -1,113 +1,191 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Samwel%20Ntunga%20Buluba&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=7FFFD4&animation=fadeIn&color=0:0D1117,50:1A1033,100:0B1F2A" width="100%" alt="header" />
 
-# Samwel Ntunga Buluba
-### `Backend Engineer in Progress • AI Systems Builder • Problem Solver`
+  <h1>Samwel Ntunga Buluba</h1>
+  <h3>Backend Engineer (in progress) • Automation Architect • AI Systems Builder</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+systems+that+solve+real+problems;Backend+Engineering+%7C+Automation+%7C+AI;Node.js+%7C+Express+%7C+FastAPI+%7C+Django;React+%7C+TypeScript+%7C+Modern+Web;AI+without+tools+is+blind)](https://git.io/typing-svg)
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7FFFD4&center=true&vCenter=true&width=900&lines=Designing+backend+systems+that+scale+in+the+real+world;Building+automation+that+saves+time+and+eliminates+noise;Creating+AI+agents+that+act+with+purpose+and+precision" alt="Typing SVG" />
+  </p>
 
-![](https://komarev.com/ghpvc/?username=Ntunga08&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
-
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=SamwelNtungaBuluba&style=for-the-badge&label=PROFILE+VIEWS&color=A970FF" alt="profile views" />
+  </p>
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## This is Samwel — building systems that reduce real-world friction.
-
-I focus on **backend engineering, automation, and AI-powered systems** that solve practical problems.
-
-### Current direction
-- Building real-world software, not just tutorial projects
-- Growing into strong backend and system design skills
-- Exploring AI agents and automation workflows
-- Creating digital products with local impact and global quality
-
-### Current mission
-- **Smart Home Expenses Automation**
-- Scalable APIs with **Node.js** and **Express**
-- Better database design with **MySQL**, **SQLite**, and **MongoDB**
-- Long-term path into **AI systems** and **multi-agent architecture**
-
-> **AI without tools is blind. I build the tools.**
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif"/>
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samwel-ntunga-buluba-7725a5320/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samwelbuluba22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ntunga08)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top">
+      <h2>Who I Am</h2>
+      <p>
+        I build backend systems that solve practical problems, automate repetitive workflows, and make software feel reliable under pressure.
+        Based in Dar es Salaam, Tanzania, I focus on shipping infrastructure that is clean, measurable, and built for long-term impact.
+      </p>
+      <p>
+        My direction is clear: engineer resilient backends, orchestrate intelligent automations, and turn AI ideas into production-ready tools.
+      </p>
+      <blockquote>
+        <strong>"AI without tools is blind — I build the tools."</strong>
+      </blockquote>
+    </td>
+    <td width="42%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" alt="coding gif" />
+      <br/><br/>
+      <a href="https://www.linkedin.com" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:samwel@example.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      <a href="https://github.com/SamwelNtungaBuluba" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Tech Stack
+<div align="center">
+  <h2>Core Focus</h2>
+</div>
+
+- Engineer backend services that are fast, maintainable, and production-safe.
+- Build automation pipelines that reduce manual effort and operational friction.
+- Design AI agent workflows grounded in real-world utility, not hype.
+- Ship systems with clear metrics, ownership, and continuous improvement.
+
+---
 
 <div align="center">
+  <h2>Tech Stack</h2>
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<table width="100%">
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+      <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Environment</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+      <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+    </td>
+  </tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <h2>Projects</h2>
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Stack</th>
+      <th align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Smart Home Expenses Automation</strong></td>
+      <td>Automates expense tracking and recurring cost analysis for smart-home usage with backend-driven processing and reporting.</td>
+      <td>Node.js • MySQL</td>
+      <td align="center">🟣 In Progress</td>
+    </tr>
+  </tbody>
+</table>
 
+---
+
+<div align="center">
+  <h2>Stats Of Obsession</h2>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamwelNtungaBuluba&bg_color=0D1117&color=7FFFD4&line=A970FF&point=7FFFD4&area=true&hide_border=false&border_color=2B2F3A" alt="activity graph" />
+  <br/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamwelNtungaBuluba&show_icons=true&bg_color=0D1117&title_color=A970FF&text_color=7FFFD4&icon_color=A970FF&border_color=2B2F3A&hide_title=false" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamwelNtungaBuluba&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=7FFFD4&border_color=2B2F3A" alt="top languages" />
+  <br/>
+  <img height="180" src="https://streak-stats.demolab.com?user=SamwelNtungaBuluba&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=7FFFD4&currStreakNum=7FFFD4&dates=7FFFD4&sideNums=7FFFD4&border=2B2F3A" alt="streak stats" />
 </div>
 
 ---
 
-## Featured Work
+<div align="center">
+  <h2>Learning Progress</h2>
+</div>
 
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| **Smart Home Expenses Automation** | Tracks and automates household spending workflows | Node.js, MySQL, Express | Building |
-| **REST API Development** | Backend services and structured endpoints | Node.js, Express, Postman | Active |
-| **AI Systems Direction** | Foundation for future automation and agent workflows | Python, APIs, tooling | Growing |
+<pre>
+Backend Architecture      ████████████████░░░░  80%
+Automation Systems        ███████████████░░░░░  75%
+AI Agent Engineering      ██████████████░░░░░░  70%
+Database Optimization     █████████████░░░░░░░  65%
+System Design Thinking    ███████████████░░░░░  76%
+</pre>
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ntunga08&show_icons=true&theme=github_dark&hide_border=false&border_color=0ea5e9&title_color=38bdf8&icon_color=38bdf8" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntunga08&layout=compact&theme=github_dark&hide_border=false&border_color=0ea5e9&title_color=38bdf8" />
-</div>
+  <h2>Connect</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ntunga08&theme=github-dark-blue&border=0ea5e9&ring=38bdf8&currStreakLabel=38bdf8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ntunga08&theme=github_dark" />
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samwel%20Ntunga%20Buluba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samwel@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-samwel%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/SamwelNtungaBuluba" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SamwelNtungaBuluba-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
-## Learning Path
+<div align="center">
+  <h3>Build what matters. Automate what repeats. Evolve what scales.</h3>
 
-```text
-Backend Engineering     [███████████████░░░░░] 75%
-API Design              [████████████░░░░░░░] 60%
-Databases               [███████████░░░░░░░░] 55%
-System Programming      [████████░░░░░░░░░░░] 40%
-AI Agents               [██████░░░░░░░░░░░░░] 30%
+<pre><code>while (alive) {
+    build();
+    learn();
+    improve();
+}</code></pre>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1F2A,50:1A1033,100:0D1117" width="100%" alt="footer" />
+</div>
